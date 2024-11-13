@@ -1,10 +1,19 @@
 # Les composants du problème
 
-Acteurs
+Acteurs:
 Professeurs
 Elèves
 Parents d'élèves
 
-Objets
+Objets:
 Mobilier scolaire
 Matériel de dessin
+
+Infrastructure:
+Bâtiments
+Salles de classe
+
+Services:
+Délégués
+CVL
+Outils numériques
